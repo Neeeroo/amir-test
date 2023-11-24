@@ -1,2 +1,2 @@
 # amir-test
- test repo
+ Ett fint test repo för att börja lära sig git
